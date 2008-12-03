@@ -1,4 +1,4 @@
 
 public class dfsgdhfj {
-	private toto:
+	private toto: gdfg
 }
