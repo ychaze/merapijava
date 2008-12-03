@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/flex-messaging-common.jar"/>
+	<classpathentry kind="lib" path="libs/flex-messaging-core.jar"/>
+	<classpathentry kind="lib" path="libs/merapi-0.0.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/Administrateur/Bureau/merapi-0.0.30-RC.1/docs/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/tools.jar"/>
+	<classpathentry kind="lib" path="libs/spring.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
